@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Kavya (aka Zencloser) 👋
 
-<!--
-**zencloser/zencloser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Undergrad at Shiv Nadar University  
+🛠️ Learning C, Python, Game Development & AI  
+🚀 Building a Jarvis-like Voice Assistant & a Shooting Game  
+🎮 Beginner in Unity | 🎬 Learning Video Editing  
+📫 Reach me at: ckavya354@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/kavya-pratap-singh-chauhan-b5419325a)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚧 Current Projects
+- 🔊 **Voice Assistant (Jarvis Style)** – Voice-controlled system automation
+- 🎯 **Shooting Game** – Built using Unity (in progress)
+- 🎥 **Video Edits** – Learning CapCut & Premier Pro
+
+---
+
+### 🌱 Currently Learning
+- Git & GitHub for version control
+- Python scripting for automation
+- Unity for beginner game development
+- Video editing tools for content creation
+
+---
+
+### ⚡ Fun Fact
+I believe small consistent effort can build something extraordinary. Let’s code something cool together!
